@@ -1,0 +1,1506 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1120 &112000000
+LightingDataAsset:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Level1
+  m_Scene: {fileID: 102900000, guid: 683e9c95204b8b74ea726a18a87c098e, type: 3}
+  m_Lightmaps: []
+  m_LightProbes: {fileID: 25800000, guid: bfd256d779d40b34da1a9c3a4f85dc73, type: 2}
+  m_LightmapsMode: 0
+  m_BakedAmbientProbeInLinear:
+    sh[ 0]: 0
+    sh[ 1]: 0
+    sh[ 2]: 0
+    sh[ 3]: 0
+    sh[ 4]: 0
+    sh[ 5]: 0
+    sh[ 6]: 0
+    sh[ 7]: 0
+    sh[ 8]: 0
+    sh[ 9]: 0
+    sh[10]: 0
+    sh[11]: 0
+    sh[12]: 0
+    sh[13]: 0
+    sh[14]: 0
+    sh[15]: 0
+    sh[16]: 0
+    sh[17]: 0
+    sh[18]: 0
+    sh[19]: 0
+    sh[20]: 0
+    sh[21]: 0
+    sh[22]: 0
+    sh[23]: 0
+    sh[24]: 0
+    sh[25]: 0
+    sh[26]: 0
+  m_LightmappedRendererData: []
+  m_LightmappedRendererDataIDs: []
+  m_EnlightenSceneMapping:
+    m_Renderers: []
+    m_Systems: []
+    m_Probesets: []
+    m_SystemAtlases: []
+    m_TerrainChunks: []
+  m_EnlightenSceneMappingRendererIDs: []
+  m_Lights:
+  - targetObject: 20617
+    targetPrefab: 0
+  - targetObject: 20618
+    targetPrefab: 0
+  - targetObject: 20619
+    targetPrefab: 0
+  - targetObject: 20620
+    targetPrefab: 0
+  - targetObject: 20621
+    targetPrefab: 0
+  - targetObject: 20622
+    targetPrefab: 0
+  - targetObject: 20623
+    targetPrefab: 0
+  - targetObject: 20624
+    targetPrefab: 0
+  - targetObject: 20625
+    targetPrefab: 0
+  - targetObject: 20626
+    targetPrefab: 0
+  - targetObject: 20627
+    targetPrefab: 0
+  - targetObject: 20628
+    targetPrefab: 0
+  - targetObject: 20629
+    targetPrefab: 0
+  - targetObject: 20630
+    targetPrefab: 0
+  - targetObject: 20631
+    targetPrefab: 0
+  - targetObject: 20632
+    targetPrefab: 0
+  - targetObject: 20633
+    targetPrefab: 0
+  - targetObject: 20634
+    targetPrefab: 0
+  - targetObject: 20635
+    targetPrefab: 0
+  - targetObject: 20636
+    targetPrefab: 0
+  - targetObject: 20637
+    targetPrefab: 0
+  - targetObject: 20638
+    targetPrefab: 0
+  - targetObject: 20639
+    targetPrefab: 0
+  - targetObject: 20640
+    targetPrefab: 0
+  - targetObject: 20641
+    targetPrefab: 0
+  - targetObject: 20642
+    targetPrefab: 0
+  - targetObject: 20643
+    targetPrefab: 0
+  - targetObject: 20644
+    targetPrefab: 0
+  - targetObject: 20645
+    targetPrefab: 0
+  - targetObject: 20646
+    targetPrefab: 0
+  - targetObject: 20647
+    targetPrefab: 0
+  - targetObject: 20648
+    targetPrefab: 0
+  - targetObject: 20649
+    targetPrefab: 0
+  - targetObject: 20650
+    targetPrefab: 0
+  - targetObject: 20651
+    targetPrefab: 0
+  - targetObject: 20652
+    targetPrefab: 0
+  - targetObject: 20653
+    targetPrefab: 0
+  - targetObject: 20654
+    targetPrefab: 0
+  - targetObject: 20655
+    targetPrefab: 0
+  - targetObject: 20656
+    targetPrefab: 0
+  - targetObject: 20657
+    targetPrefab: 0
+  - targetObject: 20658
+    targetPrefab: 0
+  - targetObject: 20659
+    targetPrefab: 0
+  - targetObject: 20660
+    targetPrefab: 0
+  - targetObject: 20661
+    targetPrefab: 0
+  - targetObject: 20662
+    targetPrefab: 0
+  - targetObject: 20663
+    targetPrefab: 0
+  - targetObject: 20664
+    targetPrefab: 0
+  - targetObject: 20665
+    targetPrefab: 0
+  - targetObject: 20666
+    targetPrefab: 0
+  - targetObject: 20667
+    targetPrefab: 0
+  - targetObject: 20668
+    targetPrefab: 0
+  - targetObject: 20669
+    targetPrefab: 0
+  - targetObject: 20670
+    targetPrefab: 0
+  - targetObject: 20671
+    targetPrefab: 0
+  - targetObject: 20672
+    targetPrefab: 0
+  - targetObject: 20673
+    targetPrefab: 0
+  - targetObject: 20674
+    targetPrefab: 0
+  - targetObject: 20675
+    targetPrefab: 0
+  - targetObject: 20676
+    targetPrefab: 0
+  - targetObject: 20677
+    targetPrefab: 0
+  - targetObject: 20678
+    targetPrefab: 0
+  - targetObject: 20679
+    targetPrefab: 0
+  - targetObject: 20680
+    targetPrefab: 0
+  - targetObject: 20681
+    targetPrefab: 0
+  - targetObject: 20682
+    targetPrefab: 0
+  - targetObject: 20683
+    targetPrefab: 0
+  - targetObject: 20684
+    targetPrefab: 0
+  - targetObject: 20685
+    targetPrefab: 0
+  - targetObject: 20686
+    targetPrefab: 0
+  - targetObject: 20687
+    targetPrefab: 0
+  - targetObject: 20688
+    targetPrefab: 0
+  - targetObject: 20689
+    targetPrefab: 0
+  - targetObject: 20690
+    targetPrefab: 0
+  - targetObject: 20691
+    targetPrefab: 0
+  - targetObject: 20692
+    targetPrefab: 0
+  - targetObject: 20693
+    targetPrefab: 0
+  - targetObject: 20694
+    targetPrefab: 0
+  - targetObject: 20695
+    targetPrefab: 0
+  - targetObject: 20696
+    targetPrefab: 0
+  - targetObject: 20697
+    targetPrefab: 0
+  - targetObject: 20698
+    targetPrefab: 0
+  - targetObject: 20699
+    targetPrefab: 0
+  - targetObject: 20700
+    targetPrefab: 0
+  - targetObject: 20701
+    targetPrefab: 0
+  - targetObject: 20702
+    targetPrefab: 0
+  - targetObject: 20703
+    targetPrefab: 0
+  - targetObject: 20704
+    targetPrefab: 0
+  - targetObject: 20705
+    targetPrefab: 0
+  - targetObject: 20706
+    targetPrefab: 0
+  - targetObject: 20707
+    targetPrefab: 0
+  - targetObject: 20708
+    targetPrefab: 0
+  - targetObject: 20709
+    targetPrefab: 0
+  - targetObject: 20710
+    targetPrefab: 0
+  - targetObject: 20711
+    targetPrefab: 0
+  - targetObject: 20712
+    targetPrefab: 0
+  - targetObject: 20713
+    targetPrefab: 0
+  - targetObject: 20714
+    targetPrefab: 0
+  - targetObject: 20715
+    targetPrefab: 0
+  - targetObject: 20716
+    targetPrefab: 0
+  - targetObject: 20717
+    targetPrefab: 0
+  - targetObject: 20718
+    targetPrefab: 0
+  - targetObject: 20719
+    targetPrefab: 0
+  - targetObject: 20720
+    targetPrefab: 0
+  - targetObject: 20721
+    targetPrefab: 0
+  - targetObject: 20722
+    targetPrefab: 0
+  - targetObject: 20723
+    targetPrefab: 0
+  - targetObject: 20724
+    targetPrefab: 0
+  - targetObject: 20725
+    targetPrefab: 0
+  - targetObject: 20726
+    targetPrefab: 0
+  - targetObject: 20727
+    targetPrefab: 0
+  - targetObject: 20728
+    targetPrefab: 0
+  - targetObject: 20729
+    targetPrefab: 0
+  - targetObject: 20730
+    targetPrefab: 0
+  - targetObject: 20731
+    targetPrefab: 0
+  - targetObject: 20732
+    targetPrefab: 0
+  - targetObject: 20733
+    targetPrefab: 0
+  - targetObject: 20734
+    targetPrefab: 0
+  - targetObject: 20735
+    targetPrefab: 0
+  - targetObject: 20736
+    targetPrefab: 0
+  - targetObject: 20737
+    targetPrefab: 0
+  - targetObject: 20738
+    targetPrefab: 0
+  - targetObject: 20739
+    targetPrefab: 0
+  - targetObject: 20740
+    targetPrefab: 0
+  - targetObject: 20741
+    targetPrefab: 0
+  - targetObject: 20742
+    targetPrefab: 0
+  - targetObject: 20743
+    targetPrefab: 0
+  - targetObject: 20744
+    targetPrefab: 0
+  - targetObject: 20745
+    targetPrefab: 0
+  - targetObject: 20746
+    targetPrefab: 0
+  - targetObject: 20747
+    targetPrefab: 0
+  - targetObject: 20748
+    targetPrefab: 0
+  - targetObject: 20749
+    targetPrefab: 0
+  - targetObject: 20750
+    targetPrefab: 0
+  - targetObject: 20751
+    targetPrefab: 0
+  - targetObject: 20752
+    targetPrefab: 0
+  - targetObject: 20753
+    targetPrefab: 0
+  - targetObject: 20754
+    targetPrefab: 0
+  - targetObject: 20755
+    targetPrefab: 0
+  - targetObject: 20756
+    targetPrefab: 0
+  - targetObject: 20757
+    targetPrefab: 0
+  - targetObject: 20758
+    targetPrefab: 0
+  - targetObject: 20759
+    targetPrefab: 0
+  - targetObject: 20760
+    targetPrefab: 0
+  - targetObject: 20761
+    targetPrefab: 0
+  - targetObject: 20762
+    targetPrefab: 0
+  - targetObject: 20763
+    targetPrefab: 0
+  - targetObject: 20764
+    targetPrefab: 0
+  - targetObject: 20765
+    targetPrefab: 0
+  - targetObject: 20766
+    targetPrefab: 0
+  - targetObject: 20767
+    targetPrefab: 0
+  - targetObject: 20768
+    targetPrefab: 0
+  - targetObject: 20769
+    targetPrefab: 0
+  - targetObject: 20770
+    targetPrefab: 0
+  - targetObject: 20771
+    targetPrefab: 0
+  - targetObject: 20772
+    targetPrefab: 0
+  - targetObject: 20773
+    targetPrefab: 0
+  - targetObject: 20774
+    targetPrefab: 0
+  - targetObject: 20775
+    targetPrefab: 0
+  - targetObject: 20776
+    targetPrefab: 0
+  - targetObject: 20777
+    targetPrefab: 0
+  - targetObject: 20778
+    targetPrefab: 0
+  - targetObject: 20779
+    targetPrefab: 0
+  - targetObject: 20780
+    targetPrefab: 0
+  - targetObject: 20781
+    targetPrefab: 0
+  - targetObject: 20782
+    targetPrefab: 0
+  - targetObject: 20783
+    targetPrefab: 0
+  - targetObject: 20784
+    targetPrefab: 0
+  - targetObject: 20785
+    targetPrefab: 0
+  - targetObject: 20786
+    targetPrefab: 0
+  - targetObject: 20787
+    targetPrefab: 0
+  - targetObject: 20788
+    targetPrefab: 0
+  - targetObject: 20789
+    targetPrefab: 0
+  - targetObject: 20790
+    targetPrefab: 0
+  - targetObject: 20791
+    targetPrefab: 0
+  - targetObject: 20792
+    targetPrefab: 0
+  - targetObject: 20793
+    targetPrefab: 0
+  - targetObject: 20794
+    targetPrefab: 0
+  - targetObject: 20795
+    targetPrefab: 0
+  - targetObject: 20796
+    targetPrefab: 0
+  - targetObject: 20797
+    targetPrefab: 0
+  - targetObject: 20798
+    targetPrefab: 0
+  - targetObject: 20799
+    targetPrefab: 0
+  - targetObject: 20800
+    targetPrefab: 0
+  - targetObject: 20801
+    targetPrefab: 0
+  - targetObject: 20802
+    targetPrefab: 0
+  - targetObject: 20803
+    targetPrefab: 0
+  - targetObject: 20804
+    targetPrefab: 0
+  - targetObject: 20805
+    targetPrefab: 0
+  - targetObject: 20806
+    targetPrefab: 0
+  - targetObject: 20807
+    targetPrefab: 0
+  - targetObject: 20808
+    targetPrefab: 0
+  - targetObject: 20809
+    targetPrefab: 0
+  - targetObject: 20810
+    targetPrefab: 0
+  - targetObject: 20811
+    targetPrefab: 0
+  - targetObject: 20812
+    targetPrefab: 0
+  - targetObject: 20813
+    targetPrefab: 0
+  - targetObject: 20814
+    targetPrefab: 0
+  - targetObject: 20815
+    targetPrefab: 0
+  - targetObject: 20816
+    targetPrefab: 0
+  - targetObject: 20817
+    targetPrefab: 0
+  - targetObject: 20818
+    targetPrefab: 0
+  - targetObject: 20819
+    targetPrefab: 0
+  - targetObject: 20820
+    targetPrefab: 0
+  - targetObject: 20821
+    targetPrefab: 0
+  - targetObject: 20822
+    targetPrefab: 0
+  - targetObject: 20823
+    targetPrefab: 0
+  - targetObject: 20824
+    targetPrefab: 0
+  - targetObject: 20825
+    targetPrefab: 0
+  - targetObject: 20826
+    targetPrefab: 0
+  - targetObject: 20827
+    targetPrefab: 0
+  - targetObject: 20828
+    targetPrefab: 0
+  - targetObject: 20829
+    targetPrefab: 0
+  - targetObject: 20830
+    targetPrefab: 0
+  - targetObject: 20831
+    targetPrefab: 0
+  - targetObject: 20832
+    targetPrefab: 0
+  - targetObject: 20833
+    targetPrefab: 0
+  - targetObject: 20834
+    targetPrefab: 0
+  - targetObject: 20835
+    targetPrefab: 0
+  - targetObject: 20836
+    targetPrefab: 0
+  - targetObject: 20837
+    targetPrefab: 0
+  - targetObject: 20838
+    targetPrefab: 0
+  - targetObject: 20839
+    targetPrefab: 0
+  - targetObject: 20840
+    targetPrefab: 0
+  - targetObject: 20841
+    targetPrefab: 0
+  - targetObject: 20842
+    targetPrefab: 0
+  - targetObject: 20843
+    targetPrefab: 0
+  - targetObject: 20844
+    targetPrefab: 0
+  - targetObject: 20845
+    targetPrefab: 0
+  - targetObject: 20846
+    targetPrefab: 0
+  - targetObject: 20847
+    targetPrefab: 0
+  - targetObject: 20848
+    targetPrefab: 0
+  - targetObject: 20849
+    targetPrefab: 0
+  - targetObject: 20850
+    targetPrefab: 0
+  - targetObject: 20851
+    targetPrefab: 0
+  - targetObject: 20852
+    targetPrefab: 0
+  - targetObject: 20853
+    targetPrefab: 0
+  - targetObject: 20854
+    targetPrefab: 0
+  - targetObject: 20855
+    targetPrefab: 0
+  - targetObject: 20856
+    targetPrefab: 0
+  - targetObject: 20857
+    targetPrefab: 0
+  - targetObject: 20858
+    targetPrefab: 0
+  - targetObject: 20859
+    targetPrefab: 0
+  - targetObject: 20860
+    targetPrefab: 0
+  - targetObject: 20861
+    targetPrefab: 0
+  - targetObject: 20862
+    targetPrefab: 0
+  - targetObject: 20863
+    targetPrefab: 0
+  - targetObject: 20864
+    targetPrefab: 0
+  - targetObject: 20865
+    targetPrefab: 0
+  - targetObject: 20866
+    targetPrefab: 0
+  - targetObject: 20867
+    targetPrefab: 0
+  - targetObject: 20868
+    targetPrefab: 0
+  - targetObject: 20869
+    targetPrefab: 0
+  - targetObject: 20870
+    targetPrefab: 0
+  - targetObject: 20871
+    targetPrefab: 0
+  - targetObject: 20872
+    targetPrefab: 0
+  - targetObject: 20873
+    targetPrefab: 0
+  - targetObject: 20874
+    targetPrefab: 0
+  - targetObject: 20875
+    targetPrefab: 0
+  - targetObject: 20876
+    targetPrefab: 0
+  - targetObject: 20877
+    targetPrefab: 0
+  - targetObject: 20878
+    targetPrefab: 0
+  - targetObject: 20879
+    targetPrefab: 0
+  - targetObject: 20880
+    targetPrefab: 0
+  - targetObject: 20881
+    targetPrefab: 0
+  - targetObject: 20882
+    targetPrefab: 0
+  - targetObject: 20883
+    targetPrefab: 0
+  - targetObject: 20884
+    targetPrefab: 0
+  - targetObject: 20885
+    targetPrefab: 0
+  - targetObject: 20886
+    targetPrefab: 0
+  - targetObject: 20887
+    targetPrefab: 0
+  - targetObject: 20888
+    targetPrefab: 0
+  - targetObject: 20889
+    targetPrefab: 0
+  - targetObject: 20890
+    targetPrefab: 0
+  - targetObject: 20891
+    targetPrefab: 0
+  - targetObject: 20892
+    targetPrefab: 0
+  - targetObject: 20893
+    targetPrefab: 0
+  - targetObject: 20894
+    targetPrefab: 0
+  - targetObject: 20895
+    targetPrefab: 0
+  - targetObject: 20896
+    targetPrefab: 0
+  - targetObject: 20897
+    targetPrefab: 0
+  - targetObject: 20898
+    targetPrefab: 0
+  - targetObject: 20899
+    targetPrefab: 0
+  - targetObject: 20900
+    targetPrefab: 0
+  - targetObject: 20901
+    targetPrefab: 0
+  - targetObject: 20902
+    targetPrefab: 0
+  - targetObject: 20903
+    targetPrefab: 0
+  - targetObject: 20904
+    targetPrefab: 0
+  - targetObject: 20905
+    targetPrefab: 0
+  - targetObject: 20906
+    targetPrefab: 0
+  m_LightBakingOutputs:
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  - probeOcclusionLightIndex: -1
+    occlusionMaskChannel: -1
+    lightmappingMask: 0
+  m_BakedReflectionProbeCubemaps: []
+  m_BakedReflectionProbes: []
+  m_EnlightenData:
+  m_EnlightenDataVersion: 112

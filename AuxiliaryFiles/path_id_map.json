@@ -1,0 +1,3935 @@
+{
+  "Files": [
+    {
+      "Name": "unity builtin extra",
+      "Assets": []
+    },
+    {
+      "Name": "sharedassets3.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "juytjt",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets2.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "Key Bindingsdownward",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "MUS_You_Left_Me_In_A_Heartbeat_Loop_01",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "resources.assets",
+      "Assets": [
+        {
+          "PathID": 1,
+          "Name": "LDR_LLL1_28",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2,
+          "Name": "LDR_LLL1_26",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "LDR_LLL1_35",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "LDR_LLL1_30",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "LDR_LLL1_61",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "LDR_LLL1_47",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "LDR_LLL1_16",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "LDR_LLL1_44",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "LDR_LLL1_40",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "LDR_LLL1_37",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "LDR_LLL1_15",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "LDR_LLL1_34",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "LDR_LLL1_24",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "LDR_LLL1_36",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "LDR_LLL1_3",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "LDR_LLL1_7",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "LDR_LLL1_1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "LDR_LLL1_49",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "LDR_LLL1_60",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "LDR_LLL1_63",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "LDR_LLL1_0",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 22,
+          "Name": "LDR_LLL1_39",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 23,
+          "Name": "LDR_LLL1_55",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 24,
+          "Name": "LDR_LLL1_13",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 25,
+          "Name": "LDR_LLL1_31",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 26,
+          "Name": "LDR_LLL1_20",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 27,
+          "Name": "LDR_LLL1_4",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 28,
+          "Name": "LDR_LLL1_56",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 29,
+          "Name": "LDR_LLL1_9",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 30,
+          "Name": "LDR_LLL1_43",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 31,
+          "Name": "LDR_LLL1_19",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 32,
+          "Name": "LDR_LLL1_18",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 33,
+          "Name": "LDR_LLL1_11",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 34,
+          "Name": "LDR_LLL1_6",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 35,
+          "Name": "LDR_LLL1_58",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 36,
+          "Name": "LDR_LLL1_32",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 37,
+          "Name": "LDR_LLL1_46",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 38,
+          "Name": "LDR_LLL1_54",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 39,
+          "Name": "LDR_LLL1_38",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 40,
+          "Name": "LDR_LLL1_12",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 41,
+          "Name": "LDR_LLL1_62",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 42,
+          "Name": "LDR_LLL1_5",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 43,
+          "Name": "LDR_LLL1_2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 44,
+          "Name": "LDR_LLL1_29",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 45,
+          "Name": "LDR_LLL1_10",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 46,
+          "Name": "LDR_LLL1_48",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 47,
+          "Name": "LDR_LLL1_42",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 48,
+          "Name": "LDR_LLL1_33",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 49,
+          "Name": "LDR_LLL1_21",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 50,
+          "Name": "LDR_LLL1_45",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 51,
+          "Name": "LDR_LLL1_27",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 52,
+          "Name": "LDR_LLL1_17",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 53,
+          "Name": "LDR_LLL1_23",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 54,
+          "Name": "LDR_LLL1_8",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 55,
+          "Name": "LDR_LLL1_53",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 56,
+          "Name": "LDR_LLL1_41",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 57,
+          "Name": "LDR_LLL1_52",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 58,
+          "Name": "LDR_LLL1_51",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 59,
+          "Name": "LDR_LLL1_50",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 60,
+          "Name": "LDR_LLL1_59",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 61,
+          "Name": "LDR_LLL1_22",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 62,
+          "Name": "LDR_LLL1_57",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 63,
+          "Name": "LDR_LLL1_25",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 64,
+          "Name": "LDR_LLL1_14",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 84,
+          "Name": "LICENSE",
+          "Type": "TextAsset"
+        },
+        {
+          "PathID": 85,
+          "Name": "COPYING",
+          "Type": "TextAsset"
+        },
+        {
+          "PathID": 87,
+          "Name": "Tonemapping",
+          "Type": "CGProgram"
+        },
+        {
+          "PathID": 88,
+          "Name": "TAA",
+          "Type": "CGProgram"
+        },
+        {
+          "PathID": 89,
+          "Name": "ColorGrading",
+          "Type": "CGProgram"
+        },
+        {
+          "PathID": 90,
+          "Name": "AmbientOcclusion",
+          "Type": "CGProgram"
+        },
+        {
+          "PathID": 91,
+          "Name": "FXAA3",
+          "Type": "CGProgram"
+        },
+        {
+          "PathID": 92,
+          "Name": "Bloom",
+          "Type": "CGProgram"
+        },
+        {
+          "PathID": 93,
+          "Name": "ScreenSpaceRaytrace",
+          "Type": "CGProgram"
+        },
+        {
+          "PathID": 94,
+          "Name": "UberSecondPass",
+          "Type": "CGProgram"
+        },
+        {
+          "PathID": 95,
+          "Name": "ACES",
+          "Type": "CGProgram"
+        },
+        {
+          "PathID": 96,
+          "Name": "MotionBlur",
+          "Type": "CGProgram"
+        },
+        {
+          "PathID": 97,
+          "Name": "EyeAdaptation",
+          "Type": "CGProgram"
+        },
+        {
+          "PathID": 98,
+          "Name": "DepthOfField",
+          "Type": "CGProgram"
+        },
+        {
+          "PathID": 99,
+          "Name": "Common",
+          "Type": "CGProgram"
+        },
+        {
+          "PathID": 100,
+          "Name": "DiskKernels",
+          "Type": "CGProgram"
+        }
+      ]
+    },
+    {
+      "Name": "unity default resources",
+      "Assets": [
+        {
+          "PathID": 12001,
+          "Name": "GUISkin",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11997,
+          "Name": "StyleSheet",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11998,
+          "Name": "DeveloperConsole",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 10001,
+          "Name": "Soft",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10103,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10200,
+          "Name": "pSphere1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10202,
+          "Name": "Cube",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10203,
+          "Name": "pCylinder1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10204,
+          "Name": "pPlane1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10205,
+          "Name": "polySurface2",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10206,
+          "Name": "Cylinder",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10207,
+          "Name": "Sphere",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10208,
+          "Name": "Capsule",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10209,
+          "Name": "Plane",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10210,
+          "Name": "Quad",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10211,
+          "Name": "Icosphere",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10212,
+          "Name": "icosahedron",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10213,
+          "Name": "pyramid",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10400,
+          "Name": "UnityWatermark-small",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10401,
+          "Name": "EscToExit_back",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10402,
+          "Name": "EscToExit_Text",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10403,
+          "Name": "UnitySplash-cube",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10407,
+          "Name": "UnityWatermark-trial",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10408,
+          "Name": "UnityWatermark-beta",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10409,
+          "Name": "UnityWatermark-edu",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10410,
+          "Name": "UnityWatermark-dev",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10411,
+          "Name": "WarningSign",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10413,
+          "Name": "UnityWatermark-proto",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10414,
+          "Name": "UnityWatermarkPlugin-beta",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11001,
+          "Name": "box",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11002,
+          "Name": "button active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11003,
+          "Name": "button hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11004,
+          "Name": "button on hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11005,
+          "Name": "button on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11006,
+          "Name": "button",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11007,
+          "Name": "horizontal scrollbar thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11008,
+          "Name": "horizontal scrollbar",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11009,
+          "Name": "horizontalslider",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11010,
+          "Name": "slider thumb active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11011,
+          "Name": "slider thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11012,
+          "Name": "slidert humb hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11013,
+          "Name": "toggle active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11014,
+          "Name": "toggle hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11015,
+          "Name": "toggle on hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11016,
+          "Name": "toggle on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11017,
+          "Name": "toggle on active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11018,
+          "Name": "toggle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11019,
+          "Name": "vertical scrollbar thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11020,
+          "Name": "vertical scrollbar",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11021,
+          "Name": "verticalslider",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11022,
+          "Name": "window on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11023,
+          "Name": "window",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11024,
+          "Name": "textfield",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11025,
+          "Name": "textfield on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11026,
+          "Name": "textfield hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15000,
+          "Name": "UnitySplash-HolographicTrackingLoss",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "globalgamemanagers.assets",
+      "Assets": [
+        {
+          "PathID": 4,
+          "Name": "AudioTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 5,
+          "Name": "AudioTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 6,
+          "Name": "GridLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 7,
+          "Name": "GridLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 8,
+          "Name": "Scrollbar",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 9,
+          "Name": "Scrollbar",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 10,
+          "Name": "AudioPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11,
+          "Name": "AudioPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 12,
+          "Name": "EventTrigger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 13,
+          "Name": "EventTrigger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 14,
+          "Name": "BaseInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 15,
+          "Name": "BaseInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 16,
+          "Name": "NetworkTransform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 17,
+          "Name": "NetworkTransform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 18,
+          "Name": "PlaymodeTestsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 19,
+          "Name": "SpatialMappingBase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 20,
+          "Name": "SpatialMappingBase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 21,
+          "Name": "Physics2DRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 22,
+          "Name": "Physics2DRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 23,
+          "Name": "ControlPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 24,
+          "Name": "ControlPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 25,
+          "Name": "NetworkDiscovery",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 26,
+          "Name": "NetworkDiscovery",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 27,
+          "Name": "GroupTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 28,
+          "Name": "GroupTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 29,
+          "Name": "MaskableGraphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 30,
+          "Name": "MaskableGraphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 31,
+          "Name": "BaseRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 32,
+          "Name": "BaseRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 33,
+          "Name": "NetworkBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 34,
+          "Name": "NetworkBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 35,
+          "Name": "NetworkTransformChild",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 36,
+          "Name": "NetworkTransformChild",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 37,
+          "Name": "TrackAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 38,
+          "Name": "TrackAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 39,
+          "Name": "AspectRatioFitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 40,
+          "Name": "AspectRatioFitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 41,
+          "Name": "PointerInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 42,
+          "Name": "PointerInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 43,
+          "Name": "Mask",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 44,
+          "Name": "Mask",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 45,
+          "Name": "ToggleGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 46,
+          "Name": "ToggleGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 47,
+          "Name": "ControlTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 48,
+          "Name": "ControlTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 49,
+          "Name": "NetworkStartPosition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 50,
+          "Name": "NetworkStartPosition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 51,
+          "Name": "RemoteTestResultSender",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 52,
+          "Name": "Outline",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 53,
+          "Name": "Outline",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 54,
+          "Name": "NetworkLobbyManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 55,
+          "Name": "NetworkLobbyManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 56,
+          "Name": "NetworkTransformVisualizer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 57,
+          "Name": "NetworkTransformVisualizer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 58,
+          "Name": "NetworkManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 59,
+          "Name": "NetworkManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 60,
+          "Name": "PhysicsRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 61,
+          "Name": "PhysicsRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 62,
+          "Name": "Image",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 63,
+          "Name": "Image",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 64,
+          "Name": "BasicPlayableBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 65,
+          "Name": "BasicPlayableBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 66,
+          "Name": "AsyncUtil",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 67,
+          "Name": "EventSystem",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 68,
+          "Name": "EventSystem",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 69,
+          "Name": "SpatialMappingRenderer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 70,
+          "Name": "SpatialMappingRenderer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 71,
+          "Name": "LayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 72,
+          "Name": "LayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 73,
+          "Name": "HorizontalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 74,
+          "Name": "HorizontalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 75,
+          "Name": "Selectable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 76,
+          "Name": "Selectable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 77,
+          "Name": "RectMask2D",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 78,
+          "Name": "RectMask2D",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 79,
+          "Name": "Slider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 80,
+          "Name": "Slider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 81,
+          "Name": "RawImage",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 82,
+          "Name": "RawImage",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 83,
+          "Name": "Joystick",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 84,
+          "Name": "ViveGripExample_Teleporter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 85,
+          "Name": "ExplosionWobble",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 86,
+          "Name": "DoorChangeScene",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 87,
+          "Name": "ViveGrip_JointFactory",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 88,
+          "Name": "SleepOnAwake",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 89,
+          "Name": "FirstPersonController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 90,
+          "Name": "SteamVR_TestController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 91,
+          "Name": "ViveGripExample_DoorHandle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 92,
+          "Name": "ViveGripExample_Bubble",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 93,
+          "Name": "VirtualInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 94,
+          "Name": "ViveGrip_EventBridge",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 95,
+          "Name": "SteamVR_Skybox",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 96,
+          "Name": "LinearDisplacement",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 97,
+          "Name": "BreakDownDoor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 98,
+          "Name": "BodyCollider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 99,
+          "Name": "ViveGripExample_CapsuleZone",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 100,
+          "Name": "PlaySound",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 101,
+          "Name": "Jerryflicker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 102,
+          "Name": "ColorGradingCurve",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 103,
+          "Name": "TouchPad",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 104,
+          "Name": "Destructible",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 105,
+          "Name": "FogModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 106,
+          "Name": "SteamVR_PlayArea",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 107,
+          "Name": "CircularDrive",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 108,
+          "Name": "Player",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 109,
+          "Name": "FPSCounter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 110,
+          "Name": "FollowTarget",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 111,
+          "Name": "SteamVR_Teleporter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 112,
+          "Name": "DepthOfFieldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 113,
+          "Name": "PostProcessingModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 114,
+          "Name": "ParticleSystemDestroyer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 115,
+          "Name": "Hand",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 116,
+          "Name": "SteamVR_Fade",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 117,
+          "Name": "Longbow",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 118,
+          "Name": "Quit",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 119,
+          "Name": "SoundPlayOneshot",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 120,
+          "Name": "ViveGripExample_Dial",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 121,
+          "Name": "BuiltinDebugViewsModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 122,
+          "Name": "DitheringComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 123,
+          "Name": "MouseLook",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 124,
+          "Name": "TimedObjectDestructor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 125,
+          "Name": "VignetteComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 126,
+          "Name": "UserLutModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 127,
+          "Name": "TimedObjectActivator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 128,
+          "Name": "SwitchScript",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 129,
+          "Name": "ViveGripExample_ExtendHighlight",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 130,
+          "Name": "DitheringModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 131,
+          "Name": "Balloon",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 132,
+          "Name": "ItemPackageSpawner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 133,
+          "Name": "SteamVR_Events",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 134,
+          "Name": "LinearMapping",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 135,
+          "Name": "SteamVR_Overlay",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 136,
+          "Name": "GetUp",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 137,
+          "Name": "CurveControlledBob",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 138,
+          "Name": "LinearAnimation",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 139,
+          "Name": "SteamVR_Ears",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 140,
+          "Name": "DontDestroyOnLoad",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 141,
+          "Name": "SteamVR_GazeTracker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 142,
+          "Name": "LadderScript",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 143,
+          "Name": "ThirdPersonUserControl",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 144,
+          "Name": "DestroyOnDetachedFromHand",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 145,
+          "Name": "ViveGripExample_Slider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 146,
+          "Name": "UIElement",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 147,
+          "Name": "ViveGrip_Interactable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 148,
+          "Name": "ActiveWhenSpawn",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 149,
+          "Name": "SteamVR_TrackedCamera",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 150,
+          "Name": "AmbientOcclusionModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 151,
+          "Name": "ItemPackageReference",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 152,
+          "Name": "SteamVR_CameraMask",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 153,
+          "Name": "DragRigidbody",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 154,
+          "Name": "SteamVR_RenderModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 155,
+          "Name": "MaterialFactory",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 156,
+          "Name": "LinearBlendshape",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 157,
+          "Name": "TiltInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 158,
+          "Name": "CustomEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 159,
+          "Name": "FallbackCameraController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 160,
+          "Name": "FOVKick",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 161,
+          "Name": "LinearAnimator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 162,
+          "Name": "UserLutComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 163,
+          "Name": "PostProcessingContext",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 164,
+          "Name": "ObjectResetter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 165,
+          "Name": "TrackballAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 166,
+          "Name": "DistanceHaptics",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 167,
+          "Name": "ViveGripExample_Switch",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 168,
+          "Name": "BalloonColliders",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 169,
+          "Name": "InteractableButtonEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 170,
+          "Name": "SimpleActivatorMenu",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 171,
+          "Name": "DestroyOnParticleSystemDeath",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 172,
+          "Name": "CrossPlatformInputManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 173,
+          "Name": "SpawnAndAttachAfterControllerIsTracking",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 174,
+          "Name": "SteamVR_Camera",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 175,
+          "Name": "ViveGripExample_Tar",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 176,
+          "Name": "DebugUI",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 177,
+          "Name": "GrainComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 178,
+          "Name": "WaypointCircuit",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 179,
+          "Name": "MobileControlRig",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 180,
+          "Name": "Demoend",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 181,
+          "Name": "SteamVR_TrackedController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 182,
+          "Name": "VelocityEstimator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 183,
+          "Name": "ControllerHintsExample",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 184,
+          "Name": "ViveGripExample_Capsule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 185,
+          "Name": "WalkIdleAnim",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 186,
+          "Name": "DestroyOnTriggerEnter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 187,
+          "Name": "InputAxisScrollbar",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 188,
+          "Name": "SeeThru",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 189,
+          "Name": "SteamVR_SphericalProjection",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 190,
+          "Name": "SteamVR",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 191,
+          "Name": "HapticRack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 192,
+          "Name": "RigidbodyFirstPersonController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 193,
+          "Name": "ViveGrip_Grabbable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 194,
+          "Name": "HeadBob",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 195,
+          "Name": "ExampleWheelController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 196,
+          "Name": "TeleportArea",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 197,
+          "Name": "DynamicShadowSettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 198,
+          "Name": "ButtonHandler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 199,
+          "Name": "EnumFlags",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 200,
+          "Name": "Ontrigger2",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 201,
+          "Name": "PostProcessingProfile",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 202,
+          "Name": "SteamVR_TestTrackedCamera",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 203,
+          "Name": "InteractableExample",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 204,
+          "Name": "Bendycaughtyou",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 205,
+          "Name": "SteamVR_Stats",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 206,
+          "Name": "AICharacterControl",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 207,
+          "Name": "LinearDrive",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 208,
+          "Name": "ControllerHoverHighlight",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 209,
+          "Name": "openvr_api",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 210,
+          "Name": "ChromaticAberrationModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 211,
+          "Name": "ViveGrip_Highlighter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 212,
+          "Name": "ViveGripExample_Hand",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 213,
+          "Name": "sceneloader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 214,
+          "Name": "MobileInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 215,
+          "Name": "AlphaButtonClickMask",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 216,
+          "Name": "StandaloneInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 217,
+          "Name": "BendydollTalk",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 218,
+          "Name": "MotionBlurComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 219,
+          "Name": "AxisTouchButton",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 220,
+          "Name": "MinAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 221,
+          "Name": "ForcedReset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 222,
+          "Name": "ColorGradingComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 223,
+          "Name": "EventSystemChecker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 224,
+          "Name": "AutoMobileShaderSwitch",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 225,
+          "Name": "PressE",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 226,
+          "Name": "SpawnRenderModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 227,
+          "Name": "TeleportArc",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 228,
+          "Name": "LastPaintingScene",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 229,
+          "Name": "AutoMoveAndRotate",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 230,
+          "Name": "SteamVR_LoadLevel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 231,
+          "Name": "ViveGripExample_Lever",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 232,
+          "Name": "TrackballGroupAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 233,
+          "Name": "Ontrigger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 234,
+          "Name": "BloomComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 235,
+          "Name": "ComplexThrowable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 236,
+          "Name": "RenderTextureFactory",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 237,
+          "Name": "PlatformSpecificContent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 238,
+          "Name": "SteamVR_Frustum",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 239,
+          "Name": "DiningTrigger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 240,
+          "Name": "SteamVR_UpdatePoses",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 241,
+          "Name": "AllowTeleportWhileAttachedToHand",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 242,
+          "Name": "Interactable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 243,
+          "Name": "ChromaticAberrationComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 244,
+          "Name": "Unparent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 245,
+          "Name": "LinearAudioPitch",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 246,
+          "Name": "Trigger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 247,
+          "Name": "MotionBlurModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 248,
+          "Name": "SteamVR_Utils",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 249,
+          "Name": "SteamVR_GameView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 250,
+          "Name": "KitchenScene",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 251,
+          "Name": "ViveGripExample_SwitchBulb",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 252,
+          "Name": "LerpControlledBob",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 253,
+          "Name": "ViveGrip_Grabber",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 254,
+          "Name": "EyeAdaptationComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 255,
+          "Name": "InteractableHoverEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 256,
+          "Name": "WaypointProgressTracker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 257,
+          "Name": "TeleportMarkerBase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 258,
+          "Name": "AmbientOcclusionComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 259,
+          "Name": "ViveGripExample_Bubbler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 260,
+          "Name": "ClassTypeReference",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 261,
+          "Name": "RagdollOnClick",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 262,
+          "Name": "ActivateTrigger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 263,
+          "Name": "SteamVR_ExternalCamera",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 264,
+          "Name": "InputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 265,
+          "Name": "ItemPackage",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 266,
+          "Name": "SimpleMouseRotator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 267,
+          "Name": "AntialiasingModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 268,
+          "Name": "BalloonSpawner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 269,
+          "Name": "ThirdPersonCharacter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 270,
+          "Name": "FogComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 271,
+          "Name": "CameraRefocus",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 272,
+          "Name": "ClassTypeConstraintAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 273,
+          "Name": "SteamVR_TrackedObject",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 274,
+          "Name": "Util",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 275,
+          "Name": "FxaaComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 276,
+          "Name": "SteamVR_LaserPointer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 277,
+          "Name": "Arrow",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 278,
+          "Name": "VignetteModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 279,
+          "Name": "ArrowHand",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 280,
+          "Name": "DepthOfFieldComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 281,
+          "Name": "Intro",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 282,
+          "Name": "ViveGripExample_Button",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 283,
+          "Name": "BallUserControl",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 284,
+          "Name": "SoundBowClick",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 285,
+          "Name": "IgnoreTeleportTrace",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 286,
+          "Name": "ScreenSpaceReflectionComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 287,
+          "Name": "Ball",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 288,
+          "Name": "TeleportPoint",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 289,
+          "Name": "BloomModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 290,
+          "Name": "SteamVR_ControllerManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 291,
+          "Name": "SteamVR_Menu",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 292,
+          "Name": "PressQuit",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 293,
+          "Name": "ScreenSpaceReflectionModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 294,
+          "Name": "SteamVR_Render",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 295,
+          "Name": "ControllerButtonHints",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 296,
+          "Name": "SteamVR_IK",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 297,
+          "Name": "HideOnHandFocusLost",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 298,
+          "Name": "ChaperoneInfo",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 299,
+          "Name": "ViveGrip_ControllerHandler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 300,
+          "Name": "BalloonHapticBump",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 301,
+          "Name": "valve1",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 302,
+          "Name": "EyeAdaptationModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 303,
+          "Name": "PostProcessingComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 304,
+          "Name": "GetSetAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 305,
+          "Name": "ArrowheadRotation",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 306,
+          "Name": "Teleport",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 307,
+          "Name": "TaaComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 308,
+          "Name": "ArcheryTarget",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 309,
+          "Name": "ViveGrip_Object",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 310,
+          "Name": "ViveGrip_GripPoint",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 311,
+          "Name": "GraphicsUtils",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 312,
+          "Name": "SpawnAndAttachToHand",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 313,
+          "Name": "GrainModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 314,
+          "Name": "ViveGripExample_Manager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 315,
+          "Name": "SoundDeparent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 316,
+          "Name": "IgnoreHovering",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 317,
+          "Name": "SteamVR_CameraFlip",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 318,
+          "Name": "AiFollow",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 319,
+          "Name": "ViveGripExample_ExtendGrab",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 320,
+          "Name": "SmoothFollow",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 321,
+          "Name": "FireSource",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 322,
+          "Name": "SteamVR_Controller",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 323,
+          "Name": "ViveGrip_TouchDetection",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 324,
+          "Name": "BuiltinDebugViewsComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 325,
+          "Name": "ColorGradingModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 326,
+          "Name": "PostProcessingBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 327,
+          "Name": "SteamVR_TestThrow",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 328,
+          "Name": "Throwable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 329,
+          "Name": "ActivationTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 330,
+          "Name": "ActivationTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 331,
+          "Name": "AnalyticsTracker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 332,
+          "Name": "NetworkManagerHUD",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 333,
+          "Name": "NetworkManagerHUD",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 334,
+          "Name": "NetworkLobbyPlayer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 335,
+          "Name": "NetworkLobbyPlayer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 336,
+          "Name": "SpatialMappingCollider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 337,
+          "Name": "SpatialMappingCollider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 338,
+          "Name": "TimelineAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 339,
+          "Name": "TimelineAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 340,
+          "Name": "NetworkIdentity",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 341,
+          "Name": "NetworkIdentity",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 342,
+          "Name": "Graphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 343,
+          "Name": "Graphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 344,
+          "Name": "ActivationPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 345,
+          "Name": "ActivationPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 346,
+          "Name": "UIBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 347,
+          "Name": "UIBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 348,
+          "Name": "InputField",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 349,
+          "Name": "InputField",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 350,
+          "Name": "Text",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 351,
+          "Name": "Text",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 352,
+          "Name": "HorizontalOrVerticalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 353,
+          "Name": "HorizontalOrVerticalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 354,
+          "Name": "Dropdown",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 355,
+          "Name": "Dropdown",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 356,
+          "Name": "HoloLensInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 357,
+          "Name": "HoloLensInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 358,
+          "Name": "AudioSpatializerMicrosoft",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 359,
+          "Name": "AudioSpatializerMicrosoft",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 360,
+          "Name": "StandaloneInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 361,
+          "Name": "StandaloneInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 362,
+          "Name": "NetworkMigrationManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 363,
+          "Name": "NetworkMigrationManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 364,
+          "Name": "NetworkProximityChecker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 365,
+          "Name": "NetworkProximityChecker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 366,
+          "Name": "VerticalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 367,
+          "Name": "VerticalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 368,
+          "Name": "GraphicRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 369,
+          "Name": "GraphicRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 370,
+          "Name": "BaseInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 371,
+          "Name": "BaseInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 372,
+          "Name": "ScrollRect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 373,
+          "Name": "ScrollRect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 374,
+          "Name": "Button",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 375,
+          "Name": "Button",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 376,
+          "Name": "CallbackExecutor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 377,
+          "Name": "AnimationTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 378,
+          "Name": "AnimationTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 379,
+          "Name": "Shadow",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 380,
+          "Name": "Shadow",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 381,
+          "Name": "NetworkAnimator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 382,
+          "Name": "NetworkAnimator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 383,
+          "Name": "PlayModeRunnerCallback",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 384,
+          "Name": "BaseMeshEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 385,
+          "Name": "BaseMeshEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 386,
+          "Name": "LayoutElement",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 387,
+          "Name": "LayoutElement",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 388,
+          "Name": "Placeholder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 389,
+          "Name": "ContentSizeFitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 390,
+          "Name": "ContentSizeFitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 391,
+          "Name": "PlayableTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 392,
+          "Name": "PlayableTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 393,
+          "Name": "PositionAsUV1",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 394,
+          "Name": "PositionAsUV1",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 395,
+          "Name": "HoloLensInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 396,
+          "Name": "HoloLensInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 397,
+          "Name": "CanvasScaler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 398,
+          "Name": "CanvasScaler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 399,
+          "Name": "TouchInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 400,
+          "Name": "TouchInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 401,
+          "Name": "AnimationPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 402,
+          "Name": "AnimationPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 403,
+          "Name": "Toggle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 404,
+          "Name": "Toggle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 3,
+          "Name": "logo 1",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets0.assets",
+      "Assets": [
+        {
+          "PathID": 26,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 27,
+          "Name": "projector",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 28,
+          "Name": "BorisDoll",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 29,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 30,
+          "Name": "prop2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 31,
+          "Name": "door",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 32,
+          "Name": "MasterEnvironment_02_d.pngdsfsaf",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 33,
+          "Name": "paintbrush",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 34,
+          "Name": "record",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 35,
+          "Name": "dsf",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 36,
+          "Name": "BendyIcon 2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 37,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 38,
+          "Name": "LensDirt00",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 39,
+          "Name": "bendy_decal 1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 40,
+          "Name": "texttureboris - Copy",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 41,
+          "Name": "Unoptimized Mess",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 42,
+          "Name": "reageeee",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 43,
+          "Name": "prop1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 44,
+          "Name": "texttureboris",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 45,
+          "Name": "ink_splat_half_02_decal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 46,
+          "Name": "chair",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 47,
+          "Name": "bendytable",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 48,
+          "Name": "adfdf",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 49,
+          "Name": "dfsaf",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 50,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 51,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 52,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 53,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 54,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 55,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 56,
+          "Name": "NewBorisFat",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 57,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 58,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 64,
+          "Name": "MUS_CH3_thinkingofyou",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets1.assets",
+      "Assets": [
+        {
+          "PathID": 100,
+          "Name": "Knob",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 101,
+          "Name": "WOAH",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 102,
+          "Name": "FIRE",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 103,
+          "Name": "rgeee",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 104,
+          "Name": "Bendy Drawing1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 105,
+          "Name": "elevator",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 106,
+          "Name": "inksplottiny3",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 107,
+          "Name": "Bendypainting",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 108,
+          "Name": "Bendy doll",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 109,
+          "Name": "WallWindow",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 110,
+          "Name": "eeee 1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 111,
+          "Name": "ink_splat_decal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 112,
+          "Name": "props3",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 113,
+          "Name": "eeee_NRM",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 114,
+          "Name": "Your GAY",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 115,
+          "Name": "Andy Fasser1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 116,
+          "Name": "dhgdfh",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 117,
+          "Name": "dafasf - Copy",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 118,
+          "Name": "dfaadsf",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 119,
+          "Name": "spark 1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 120,
+          "Name": "bacon soup",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 121,
+          "Name": "LensDirt01",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 122,
+          "Name": "SpriteAtlasTexture-Decals (Group 1)-4096x2048-fmt10",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 123,
+          "Name": "webs",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 124,
+          "Name": "hurt_ui_03",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 125,
+          "Name": "ink_splat_half_01_decal 1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 126,
+          "Name": "gkghk",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 127,
+          "Name": "theater chair",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 128,
+          "Name": "Objective2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 129,
+          "Name": "NancyWills1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 130,
+          "Name": "ink_flow_loop",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 131,
+          "Name": "Inkdrip",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 132,
+          "Name": "Unityyyyyyy",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 133,
+          "Name": "adfaf",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 134,
+          "Name": "sadfdsfa",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 135,
+          "Name": "Objective One",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 136,
+          "Name": "wowokay 1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 137,
+          "Name": "Drawer 1_NRM",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 138,
+          "Name": "wowokay333",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 139,
+          "Name": "MasterEnvironment_02_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 140,
+          "Name": "adgadsg",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 141,
+          "Name": "ink_foot_print_decal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 142,
+          "Name": "Ink",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 143,
+          "Name": "Inkplot2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 144,
+          "Name": "bendy_00_00_00",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 145,
+          "Name": "bottle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 146,
+          "Name": "Spills 4",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 147,
+          "Name": "Ink_Waves",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 148,
+          "Name": "poster_sheep_songs_decal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 149,
+          "Name": "wwdasa",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 150,
+          "Name": "adfdasf_OCC",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 151,
+          "Name": "adfdasf_DISP",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 152,
+          "Name": "boriseyes",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 153,
+          "Name": "ProjectorLight",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 154,
+          "Name": "InkTex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 155,
+          "Name": "adfdasf",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 156,
+          "Name": "BorisDrawing1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 157,
+          "Name": "GetOutOfMyHouse copy",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 158,
+          "Name": "NORMALOKAY",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 159,
+          "Name": "You\u0027re Ugly",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 160,
+          "Name": "MasterEnvironment_03_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 161,
+          "Name": "inkycustom",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 162,
+          "Name": "Drawer 1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 163,
+          "Name": "MasterEnvironment_02_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 164,
+          "Name": "axe",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 165,
+          "Name": "dfgdg",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 166,
+          "Name": "wwwwwwww",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 167,
+          "Name": "ink_Particle_mask #200132",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 168,
+          "Name": "Ink",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 169,
+          "Name": "dafaf",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 170,
+          "Name": "movie Department",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 171,
+          "Name": "sghgfsh",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 172,
+          "Name": "adgadsg_NRM",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 173,
+          "Name": "stick",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 174,
+          "Name": "adfdasf_DISP 1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 175,
+          "Name": "bedding",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 176,
+          "Name": "inksplottiny1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 177,
+          "Name": "dancing little shit",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 178,
+          "Name": "Objective4",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 179,
+          "Name": "SpriteAtlasTexture-Decals (Group 1)-4096x2048-fmt11",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 180,
+          "Name": "gafga - Copy",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 181,
+          "Name": "Speaker",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 182,
+          "Name": "LovelyFettyCutout",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 183,
+          "Name": "CobWeb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 184,
+          "Name": "Cloud_Color",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 185,
+          "Name": "FlashlightCookie03",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 186,
+          "Name": "Objective3",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 187,
+          "Name": "MickeyMills1FuckYou",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 188,
+          "Name": "VoiceOfPickers",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 189,
+          "Name": "wwwww",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 190,
+          "Name": "Borisregular",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 191,
+          "Name": "inksplottiny2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 192,
+          "Name": "SodacAn",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 193,
+          "Name": "wowokay",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 194,
+          "Name": "RECORDING",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 195,
+          "Name": "ClothHang",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 196,
+          "Name": "Bendy_DifuseSketched_NRM",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 197,
+          "Name": "gafga",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 198,
+          "Name": "fghjfghj",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 199,
+          "Name": "WorkHard",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 200,
+          "Name": "props4",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 201,
+          "Name": "Paper",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 202,
+          "Name": "MasterEnvironment_01_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 203,
+          "Name": "SpriteAtlasTexture-Decals (Group 1)-4096x2048-fmt11 - Copy",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 204,
+          "Name": "dasfasf",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 205,
+          "Name": "Box\u0027n Key",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 206,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 207,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 208,
+          "Name": "ArtDesk",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 209,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 210,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 211,
+          "Name": "CH3_Archway_Wood",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 212,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 213,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 214,
+          "Name": "CH3_Crate",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 215,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 216,
+          "Name": "borisv2_reference",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 217,
+          "Name": "CH3_CoatRack",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 218,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 219,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 220,
+          "Name": "CH3_CeilingArch",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 221,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 222,
+          "Name": "Crank_01",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 223,
+          "Name": "inkbendy_body1_model0",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 224,
+          "Name": "CH3_Stool",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 225,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 226,
+          "Name": "CH3_PunchClock",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 227,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 228,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 229,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 230,
+          "Name": "CH3_InkPipe_04",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 231,
+          "Name": "Thing01",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 232,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 233,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 234,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 235,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 236,
+          "Name": "Bendy doll",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 237,
+          "Name": "CH3_Spotlight",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 238,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 239,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 240,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 241,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 242,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 243,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 244,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 245,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 246,
+          "Name": "CH3_FloorCorner_Wood",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 247,
+          "Name": "CH3_SpotlightHolder",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 248,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 249,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 250,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 251,
+          "Name": "RetroDesk05",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 252,
+          "Name": "default",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 253,
+          "Name": "EthanGlasses",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 294,
+          "Name": "PickersElevatorNotWorking",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 295,
+          "Name": "SFX_batim_ink_dripping_loop_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 296,
+          "Name": "Josh Perski1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 297,
+          "Name": "WoodCrashLarge_OGG",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 298,
+          "Name": "PickerUsefulInfo",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 299,
+          "Name": "RumbleEnd",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 300,
+          "Name": "MetalGrinding",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 301,
+          "Name": "SFX_Valve_Turn_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 302,
+          "Name": "SFX_CH3_elevatorfallingloop",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 303,
+          "Name": "Jumpscare_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 304,
+          "Name": "Land",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 305,
+          "Name": "DoorBreakdown",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 306,
+          "Name": "Footstep01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 307,
+          "Name": "AndyFasser1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 308,
+          "Name": "SFX_Door_Generic_Open_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 309,
+          "Name": "Jump",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 310,
+          "Name": "SFX_Generic_Doorknob_Rattle_02 #080481",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 311,
+          "Name": "WonderingWhereFettyIs",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 312,
+          "Name": "MUS_SearcherStartCue01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 313,
+          "Name": "SFX_Gate_Close_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 314,
+          "Name": "MickeyMills1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 315,
+          "Name": "Footstep02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 316,
+          "Name": "GollyGee",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 317,
+          "Name": "foot2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 318,
+          "Name": "Rumbleloop",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 319,
+          "Name": "SFX_Projector_Run_With_Film_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 320,
+          "Name": "SFX_Gate_Open_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 321,
+          "Name": "MUS_Little_Devil_Darling_Loop_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 322,
+          "Name": "A Thing That Does - Dorsey Brothers",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 323,
+          "Name": "TheresTheFettyboi",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 324,
+          "Name": "PickersLine2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 325,
+          "Name": "SFX_Button_Push_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 326,
+          "Name": "NancyWills1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 327,
+          "Name": "PickersIveGotToGetToHim",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 328,
+          "Name": "foot1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 329,
+          "Name": "MUS_Lobby_Jazz_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 330,
+          "Name": "cubemap",
+          "Type": "Cubemap"
+        },
+        {
+          "PathID": 331,
+          "Name": "rthrth",
+          "Type": "Cubemap"
+        }
+      ]
+    },
+    {
+      "Name": "level3",
+      "Assets": [
+        {
+          "PathID": 1,
+          "Name": "",
+          "Type": "Cubemap"
+        }
+      ]
+    },
+    {
+      "Name": "level2",
+      "Assets": []
+    },
+    {
+      "Name": "level1",
+      "Assets": [
+        {
+          "PathID": 1,
+          "Name": "Combined Mesh (root: scene)",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 2,
+          "Name": "Combined Mesh (root: scene) 3",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 3,
+          "Name": "Combined Mesh (root: scene) 2",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4,
+          "Name": "",
+          "Type": "Cubemap"
+        },
+        {
+          "PathID": 5,
+          "Name": "",
+          "Type": "Cubemap"
+        },
+        {
+          "PathID": 6,
+          "Name": "",
+          "Type": "Cubemap"
+        }
+      ]
+    },
+    {
+      "Name": "level0",
+      "Assets": []
+    },
+    {
+      "Name": "globalgamemanagers",
+      "Assets": []
+    }
+  ]
+}
