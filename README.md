@@ -8,7 +8,7 @@
 
 # Requirements
 
-* Unity 2018 (If you're compiling this for PsVita, you need 2018 with PsVita support downloaded.
+* Unity 2018 (If you're compiling this for PsVita, you need 2018 with PsVita support downloaded.)
 
 * VS Code
 
