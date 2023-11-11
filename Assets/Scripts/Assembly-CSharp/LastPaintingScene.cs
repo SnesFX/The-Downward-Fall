@@ -24,7 +24,6 @@ public class LastPaintingScene : MonoBehaviour
 			{
 				gameObject.SetActive(false);
 				Invoke("CreateCamera", 18f);
-				UiDarkness.SetActive(true);
 				Camera.SetActive(true);
 			}
 		}
@@ -34,7 +33,7 @@ public class LastPaintingScene : MonoBehaviour
 	{
 		Player.SetActive(true);
 		Painting.SetActive(true);
-		Object.Destroy(Camera);
+	//	Object.Destroy(Camera);
 		Object.Destroy(base.gameObject);
 	}
 }
