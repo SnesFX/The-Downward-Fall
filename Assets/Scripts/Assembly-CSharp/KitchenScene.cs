@@ -23,7 +23,6 @@ public class KitchenScene : MonoBehaviour
 			{
 				gameObject.SetActive(false);
 				Camera.SetActive(true);
-				Fadein.SetActive(true);
 				Fetty.SetActive(true);
 				Invoke("Reset", 9f);
 			}
@@ -33,7 +32,7 @@ public class KitchenScene : MonoBehaviour
 	private void Reset()
 	{
 		Player.SetActive(true);
-		Object.Destroy(Camera);
+	//	Object.Destroy(Camera);
 		Object.Destroy(base.gameObject);
 	}
 }

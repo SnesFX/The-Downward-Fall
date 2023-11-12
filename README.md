@@ -1,19 +1,15 @@
 # The Downward Fall
 
-* A BATIM: Downward Fall Decompilation
+* A decompilation of Bendy and The Ink Machine: Downward Fall (fangame)
 
-# NOTE
-
-* This decomp was originally meant for a PsVita Port but I decided to take a break from Unity Decomps and shit to go and finish up some ddlc mods I've been working on, ren'py android ports, and last but most importantly my grades lmao.
+* Still one of the best bendy fangames imo
 
 # Requirements
 
-* Unity 2018 (If you're compiling this for PsVita, you need 2018 with PsVita support downloaded.)
-
-* VS Code
+* Unity 2018.3.0f2
 
 # Credits
 
-* [PatnosD](https://www.youtube.com/channel/UCFdS1xl_HOhlUDbIeNFORCA) - Helped me decompile the game!
+* [BlitzDotCS(me!)](https://twitter.com/blitzdotcs) - Decomp lol
 
-* [SnesFX](https://twitter.com/snesfx) - Unfinished PsVita Port
+* [PatnosD](https://www.youtube.com/channel/UCFdS1xl_HOhlUDbIeNFORCA) - Helped me get the decomp working in unity
