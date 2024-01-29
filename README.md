@@ -10,6 +10,6 @@
 
 # Credits
 
-* [BlitzDotCS(me!)](https://twitter.com/blitzdotcs) - Decomp lol
+* [SnesFX(me!)](https://twitter.com/snesfx) - Decomp lol
 
 * [PatnosD](https://www.youtube.com/channel/UCFdS1xl_HOhlUDbIeNFORCA) - Helped me get the decomp working in unity
